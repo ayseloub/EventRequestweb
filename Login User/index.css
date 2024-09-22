@@ -1,0 +1,102 @@
+@font-face {
+    font-family: jakarta;
+    src: url(Font/PlusJakartaSans-Italic-VariableFont_wght.ttf);
+}
+
+.logo {
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    bottom: auto;
+    right: auto;
+    width: 230px;
+    height: 41px;
+}
+
+h2 .judul{
+    position: absolute;
+    /* width: 82px; */
+    /* height: 38px; */
+    bottom: auto;
+    right: auto;
+    left: 100px;
+    top: 214px;
+    font-family: jakarta;
+}
+
+.Username{
+    position: absolute;
+    left: 100px;
+    right: auto;
+    top: 266px;
+    bottom: auto;
+    font-family: jakarta;
+
+}
+
+.masukaninput{
+    position: absolute;
+    top : 288px;
+    bottom: auto;
+    left: 100px;
+    right: auto;
+    width: 360px;
+    height: 30px;
+    border-radius: 5px;
+    outline-color: #AFB1B6;
+    border-color: #AFB1B6;
+}
+
+.password{
+    position: absolute;
+    top: 338px;
+    bottom: auto;
+    left: 100px;
+    right: auto;
+    font-family: jakarta;
+}
+
+
+.MasukanPassword{
+    position: absolute;
+    top: 360px;
+    left: 100px;
+    width: 360px;
+    height: 30px;
+    bottom: auto;
+    right: auto;
+    border-radius: 5px;
+    outline-color: #AFB1B6;
+    border-color: #AFB1B6;
+    
+}
+
+.Tombol{
+    position: absolute;
+    width: 360px;
+    height: 40px;
+    top: 430px;
+    left: 100px;
+    background-color: #3093DE;
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+.Gambar{
+    position: absolute;
+    width: 50%;
+    height: 100%;
+    left: 600 px;
+    right: 0px;
+    top: 0px;
+}
+
+.SignupButton{
+    position: absolute;
+    top: 450px;
+    left: 100px;
+    font-family: jakarta;
+    color: black;
+}
